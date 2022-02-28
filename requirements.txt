@@ -1,0 +1,10 @@
+opencv-python
+pyautogui
+pyotp
+pytesseract
+imagehash
+fuzzy_match
+requests
+pynput
+pyzmq
+pyperclip
